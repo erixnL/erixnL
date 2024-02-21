@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Erin Liu</h1>
+<h1>Hi there! 👋 I'm Erin Liu</h1>
 <h3 align="center">A passionate full stack developer and a final year Master of IT student at University of Wollongong</h3>
 
 🙋‍♀️ Woman in Tech! (She/Her)
