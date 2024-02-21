@@ -1,5 +1,5 @@
 <h1> Hi there ! 👋 I'm Erin Liu.</h1>
-A passionate full-stack developer and a final year Master of IT student at University of Wollongong.
+**A passionate full-stack developer** and a final year Master of IT student at University of Wollongong.
 <!--
 **erixnL/erixnL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
